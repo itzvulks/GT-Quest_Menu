@@ -10,7 +10,7 @@ Installation:
  
  3.Once installed run the exe
  
- 4. You will get a warning, click "more info" then "run anyway"
+4. You will get a warning, click "more info" then "run anyway"
  
  5.Congratulations you now have the latest version of (GorillaTag for Quest) UwUMenu Installed!
 
