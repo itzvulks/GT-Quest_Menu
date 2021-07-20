@@ -11,9 +11,7 @@ Installation:
  3.Once installed run the exe
  
  4.You will get a warning, click "more info" then "run anyway"
- ![windows](https://user-images.githubusercontent.com/48305404/126403667-ab712525-a4f4-4718-8f5f-63e22157c6b8.PNG)
-
-
+![windows](https://user-images.githubusercontent.com/48305404/126403667-ab712525-a4f4-4718-8f5f-63e22157c6b8.PNG)
  5.Congratulations you now have the latest version of (GorillaTag for Quest) UwUMenu Installed!
 
 (DISCLAMER: I do not own any of the mods listed in this menu, They are credited inside the menu)
