@@ -11,9 +11,18 @@ Installation:
  
  2.Press the download button
  
+ 2.5.You will get a "virus" warning, proceed as shown below:[An .exe file is marked as potentially dangerous because it's a program that can do anything (within the limits of Windows' User Account Control feature){You can rest assured this file will NOT take advantage of your pc.]
+
+![uwuedge](https://user-images.githubusercontent.com/48305404/126407336-ed2c7a45-fb9f-4d8e-9def-6e61ca27983b.PNG)
+
+![uwuedgekeep](https://user-images.githubusercontent.com/48305404/126407347-a668066c-7d84-4aa3-bc62-66e19156c714.PNG)
+
+![uwuedgekeep2](https://user-images.githubusercontent.com/48305404/126407360-7ea99acf-66bd-4f02-bb76-8203185af1f9.PNG)
+
+(WARNING: Proccess is different for every browser so its suggested that microsoft edge is used)
  3.Once installed run the exe
  
- 4.You will get a warning, click "more info" then "run anyway"
+ 4.You will get another warning, click "more info" then "run anyway"
  
 ![windows](https://user-images.githubusercontent.com/48305404/126403667-ab712525-a4f4-4718-8f5f-63e22157c6b8.PNG)
  
