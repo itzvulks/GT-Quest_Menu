@@ -1,7 +1,6 @@
 Thanks for checking out my menu!
 
 About:
-
 (GTQ)UwU Menu makes finding and installing the latest mods just a bit easier by placing all the latest (aprroved) mods in one place!
 The menu is going to be continuously updated so make sure to check for the latest version otherwise the downloads might not work.
 
