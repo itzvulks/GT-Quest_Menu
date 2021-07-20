@@ -6,6 +6,7 @@ About:
 The menu is going to be continuously updated so make sure to check for the latest version otherwise the downloads might not work.
 
 Installation:
+
  1.Click on the UwUMenu.exe file above
  
  2.Press the download button
