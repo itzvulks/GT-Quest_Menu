@@ -11,7 +11,7 @@ Installation:
  
  2.Press the download button
  
- 2.5.You will get a "virus" warning, proceed as shown below:[An .exe file is marked as potentially dangerous because it's a program that can do anything (within the limits of Windows' User Account Control feature){You can rest assured this file will NOT take advantage of your pc.]
+ 2.5.You will get a "virus" warning, proceed as shown below:[The .exe file is marked as potentially dangerous because it gets the files from the web and installs them on your pc{You can rest assured this file will NOT take advantage of your pc.(Check source code for reasurance)]
 
 Click the three dots on the right of the warning:
 
@@ -27,15 +27,23 @@ Click "Show more" then "Keep anyway"
 
 (WARNING: Proccess is different for every browser so its suggested that microsoft edge is used)
 
- 3.Once installed run the exe
+ 3.Once installed open your settings
+
+ 3.1.Follow this path in your settings: Update & Security, Windows Security, Virus & threat protection, Manage settings(Virus & threat protection settings), Add or remove exclusions(Exclusions)
+
+ 3.2.Click "Add an exclusion" then "File"
+
+ 3.3.Select the UwUMenu.exe File then click "Open" (You may close settings tabs once done)
+
+ 4.Run the UwUMenu.exe file
  
- 4.You will get another warning, click "more info" then "run anyway"
+ 5.You might get another warning, click "More info" then "run anyway"
  
 ![windows](https://user-images.githubusercontent.com/48305404/126403667-ab712525-a4f4-4718-8f5f-63e22157c6b8.PNG)
  
 ![windows2](https://user-images.githubusercontent.com/48305404/126403931-4bbefd61-1488-40a7-a373-5e013699699d.PNG)
  
- 5.Congratulations you now have the latest version of (GorillaTag for Quest) UwUMenu Installed!
+ 6.Congratulations you now have the latest version of (GorillaTag for Quest) UwUMenu Installed!
 
 (DISCLAMER: I do not own any of the mods listed in this menu, They are credited inside the menu)
 
