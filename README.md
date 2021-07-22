@@ -7,6 +7,8 @@ The menu is going to be continuously updated so make sure to check for the lates
 
 Installation:
 
+(WARNING: There will be extra unlisted steps if any 3rd party anti-virus software is not disabled during process)
+
  1.Click on the UwUMenu.exe file above
  
  2.Press the download button
@@ -44,6 +46,8 @@ To finish the process enter 9 at the mod section of the menu, you will get a rem
 Now enter your GorillaTagMods folder, highlight all of the .qmod files and drag and drop them into the Mods section of Quest Patcher
 
 _________________________________________________________________________________________________
+
+(NOTICE: I am NOT entitled to help with any installing issues due to user error. However if you would still like to request help my discord is UwU#8304)
 
 (DISCLAMER: I do not own any of the mods listed in this menu, They are credited inside the menu)
 
