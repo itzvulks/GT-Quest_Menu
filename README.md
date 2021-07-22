@@ -7,7 +7,7 @@ The menu is going to be continuously updated so make sure to check for the lates
 
 Installation:
 
-(WARNING: There will be extra unlisted steps if any 3rd party anti-virus software is not disabled during process)
+(WARNING: There may be extra unlisted steps if any 3rd party anti-virus or administrator control software is not disabled during process)
 
  1.Click on the UwUMenu.exe file above
  
