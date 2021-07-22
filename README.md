@@ -27,23 +27,15 @@ Click "Show more" then "Keep anyway"
 
 (WARNING: Proccess is different for every browser so its suggested that microsoft edge is used)
 
- 3.Once installed open your settings
-
- 3.1.Follow this path in your settings: Update & Security, Windows Security, Virus & threat protection, Manage settings(Virus & threat protection settings), Add or remove exclusions(Exclusions)
-
- 3.2.Click "Add an exclusion" then "File"
-
- 3.3.Select the UwUMenu.exe File then click "Open" (You may close settings tabs once done)
-
- 4.Run the UwUMenu.exe file
+ 3.Run the UwUMenu.exe file
  
- 5.You might get another warning, click "More info" then "run anyway"
+ 4.You might get another warning, click "More info" then "run anyway"
  
 ![windows](https://user-images.githubusercontent.com/48305404/126403667-ab712525-a4f4-4718-8f5f-63e22157c6b8.PNG)
  
 ![windows2](https://user-images.githubusercontent.com/48305404/126403931-4bbefd61-1488-40a7-a373-5e013699699d.PNG)
  
- 6.Congratulations you now have the latest version of (GorillaTag for Quest) UwUMenu Installed!
+ 5.Congratulations you now have the latest version of (GorillaTag for Quest) UwUMenu Installed!
 
 Finishing:
 
