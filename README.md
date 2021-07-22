@@ -45,6 +45,14 @@ Click "Show more" then "Keep anyway"
  
  6.Congratulations you now have the latest version of (GorillaTag for Quest) UwUMenu Installed!
 
+Finishing:
+
+To finish the process enter 9 at the mod section of the menu, you will get a reminder popup. After menu is closed leave Quest patcher open!
+
+Now enter your GorillaTagMods folder, highlight all of the .qmod files and drag and drop them into the Mods section of Quest Patcher
+
+_________________________________________________________________________________________________
+
 (DISCLAMER: I do not own any of the mods listed in this menu, They are credited inside the menu)
 
 If you are the creator of any file listed inside of the menu and want it removed please email me at jdrice5250@gmail.com and list the subject as Gorilla tag (Just so it doesn't end up in my trash)
